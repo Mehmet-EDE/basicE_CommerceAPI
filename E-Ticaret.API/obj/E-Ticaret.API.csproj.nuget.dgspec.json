@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API\\E-Ticaret.API.csproj": {}
+    "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API\\E-Ticaret.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj": {
+    "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj",
         "projectName": "E-Ticaret.API.DataAccess",
-        "projectPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj",
+        "projectPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj",
         "packagesPath": "C:\\Users\\P1840\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj": {
-                "projectPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj"
+              "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj": {
+                "projectPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj": {
+    "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj",
+        "projectUniqueName": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj",
         "projectName": "E-Ticaret.API.Data",
-        "projectPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj",
+        "projectPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj",
         "packagesPath": "C:\\Users\\P1840\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\obj\\",
+        "outputPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API\\E-Ticaret.API.csproj": {
+    "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API\\E-Ticaret.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API\\E-Ticaret.API.csproj",
+        "projectUniqueName": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API\\E-Ticaret.API.csproj",
         "projectName": "E-Ticaret.API",
-        "projectPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API\\E-Ticaret.API.csproj",
+        "projectPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API\\E-Ticaret.API.csproj",
         "packagesPath": "C:\\Users\\P1840\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API\\obj\\",
+        "outputPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -200,11 +200,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj"
+              "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj"
               },
-              "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj": {
-                "projectPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj"
+              "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj": {
+                "projectPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj"
               }
             }
           }
@@ -229,11 +229,19 @@
               "target": "Package",
               "version": "[5.0.0, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
             },
             "MySql.Data": {
               "target": "Package",

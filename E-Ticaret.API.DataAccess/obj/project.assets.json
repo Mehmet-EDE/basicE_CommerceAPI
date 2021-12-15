@@ -2047,11 +2047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj",
       "projectName": "E-Ticaret.API.DataAccess",
-      "projectPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj",
+      "projectPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj",
       "packagesPath": "C:\\Users\\P1840\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2072,8 +2072,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj": {
-              "projectPath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj"
+            "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj": {
+              "projectPath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj"
             }
           }
         }

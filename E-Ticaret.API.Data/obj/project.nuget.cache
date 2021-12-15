@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I9xiQM7ptq7Zp5IVVhKnHp3AOkfPzThYHFcU93oaPoKpCqkDryGJRkJSmwTS30/NGTQWFPUa8M97SVVwRPPVEQ==",
+  "dgSpecHash": "4Gyf/UvdGwXS0asaxxVMe51t6Kc7BSDVRZlwaF+iTvAlnSrqWikD7KwvVr04k/GqwndZTeWqyFAMdhKBYRQrJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj",
+  "projectFilePath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.Data\\E-Ticaret.API.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\P1840\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\P1840\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",

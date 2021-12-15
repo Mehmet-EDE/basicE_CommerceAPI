@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9agxDaqcLwv0skdM6UH6WokW+yDU0ITbTXg8dVnuLQDpYaaizrb4P4i2DOG5FM7aAmJf9czsjgZtKh+54VP9IQ==",
+  "dgSpecHash": "jjGBkxN3ALnWUARQCCYwPqT3Ssj9mfEO7Q+1D6jG9zcWPccfSpuEulv+sQV6uG52F8FgJhSycpdE+bpVCiDqnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\P1840\\source\\repos\\E-Ticaret.API\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\P1840\\Desktop\\eticaretAPI\\basicE_ticaretAPI\\E-Ticaret.API.DataAccess\\E-Ticaret.API.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\P1840\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\P1840\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

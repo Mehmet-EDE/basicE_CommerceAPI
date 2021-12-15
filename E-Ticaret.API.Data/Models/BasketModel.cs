@@ -4,7 +4,7 @@ using System.Text;
 
 namespace E_Ticaret.API.Data.Models
 {
-    class BasketModel
+    public class BasketModel
     {
         public int Id { get; set; }
         public List<ProductModel> products { get; set; }
