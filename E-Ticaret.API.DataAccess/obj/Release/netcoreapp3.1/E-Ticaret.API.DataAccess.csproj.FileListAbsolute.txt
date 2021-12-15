@@ -1,0 +1,16 @@
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\bin\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.deps.json
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\bin\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.runtimeconfig.json
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\bin\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.runtimeconfig.dev.json
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\bin\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.dll
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\bin\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.pdb
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\bin\Release\netcoreapp3.1\E-Ticaret.API.Data.dll
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\bin\Release\netcoreapp3.1\E-Ticaret.API.Data.pdb
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\obj\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.csproj.AssemblyReference.cache
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\obj\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\obj\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.AssemblyInfoInputs.cache
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\obj\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.AssemblyInfo.cs
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\obj\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\obj\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.csproj.CopyComplete
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\obj\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.dll
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\obj\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.pdb
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.DataAccess\obj\Release\netcoreapp3.1\E-Ticaret.API.DataAccess.genruntimeconfig.cache

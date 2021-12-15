@@ -1,0 +1,13 @@
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\bin\Debug\netcoreapp3.1\E-Ticaret.API.Data.deps.json
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\bin\Debug\netcoreapp3.1\E-Ticaret.API.Data.runtimeconfig.json
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\bin\Debug\netcoreapp3.1\E-Ticaret.API.Data.runtimeconfig.dev.json
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\bin\Debug\netcoreapp3.1\E-Ticaret.API.Data.dll
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\bin\Debug\netcoreapp3.1\E-Ticaret.API.Data.pdb
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\obj\Debug\netcoreapp3.1\E-Ticaret.API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\obj\Debug\netcoreapp3.1\E-Ticaret.API.Data.AssemblyInfoInputs.cache
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\obj\Debug\netcoreapp3.1\E-Ticaret.API.Data.AssemblyInfo.cs
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\obj\Debug\netcoreapp3.1\E-Ticaret.API.Data.csproj.CoreCompileInputs.cache
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\obj\Debug\netcoreapp3.1\E-Ticaret.API.Data.dll
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\obj\Debug\netcoreapp3.1\E-Ticaret.API.Data.pdb
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\obj\Debug\netcoreapp3.1\E-Ticaret.API.Data.genruntimeconfig.cache
+C:\Users\P1840\source\repos\E-Ticaret.API\E-Ticaret.API.Data\obj\Debug\netcoreapp3.1\E-Ticaret.API.Data.csproj.AssemblyReference.cache
